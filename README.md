@@ -15,9 +15,13 @@
 ### AWS Services:
 
 **Compute:** EC2, Lambda
+
 **Storage:** S3, DynamoDB
+
 **Network:** API Gateway
+
 **General:** Rekognition, SQS, SNS
+
 **IaC**: CloudFormation
 
 
